@@ -53,7 +53,7 @@
     "@lrnwebcomponents/simple-toolbar": "^3.0.6",
     "@lrnwebcomponents/simple-tooltip": "^3.0.5",
     "@lrnwebcomponents/voice-recorder": "^3.0.6",
-    "@vaadin/vaadin-upload": "^4.4.1",
+    "@vaadin/vaadin-upload": "^5.0.0",
     "lit-element": "2.4.0"
   },
   "devDependencies": {
@@ -61,9 +61,9 @@
     "@polymer/iron-component-page": "github:PolymerElements/iron-component-page",
     "@polymer/iron-demo-helpers": "3.1.0",
     "@webcomponents/webcomponentsjs": "2.5.0",
-    "concurrently": "5.3.0",
+    "concurrently": "6.0.0",
     "gulp-babel": "8.0.0",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "polymer-cli": "1.9.11",
     "wct-browser-legacy": "1.0.2",
     "web-animations-js": "2.3.2"
